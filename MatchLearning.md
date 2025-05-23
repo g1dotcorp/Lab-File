@@ -1,1 +1,2 @@
-What is machine learning?
+Types of machine learning
+
